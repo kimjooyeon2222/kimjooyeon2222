@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/kimjooyeon2222/kimjooyeon2222/main/assets/avatar.png" width="250" />
-
+  <img src="https://raw.githubusercontent.com/kimjooyeon2222/kimjooyeon2222/main/assets/avatar.png" width="250" alt="Avatar" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm JooYeon Kim 👋</h1>
