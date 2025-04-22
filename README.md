@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/kimjooyeon2222/kimjooyeon2222/main/assets/avatar.png" alt="JooYeon Kim Avatar" width="100%" />
+<img src="https://raw.githubusercontent.com/kimjooyeon2222/kimjooyeon2222/main/assets/avatar.png" width="250" />
+
 </p>
+
 
 <h1 align="center">Hi, I'm JooYeon Kim 👋</h1>
 
