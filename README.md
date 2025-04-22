@@ -1,6 +1,7 @@
-## 😎 Hi, I'm JooYeon Kim
+# 😎 Hi, I'm JooYeon Kim
 
-💡 Backend developer<br>
+👨‍💻 Backend Developer  
+📍 Based in Korea | ✉️ [zpffjtm@gmail.com](mailto:zpffjtm@gmail.com) <br>
 💻 Skilled in **Java, C++, SQL**, and currently advancing my expertise in **C#**  
 🧠 Exploring **YOLOv8-based deep learning** for intelligent system development  
 🎼 Currently developing **TranScore**, an AI-powered sheet music converter
