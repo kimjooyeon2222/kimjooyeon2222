@@ -1,4 +1,9 @@
-# 😎 Hi, I'm JooYeon Kim
+<p align="center">
+  <img src="https://github.com/kimjooyeon2222/kimjooyeon2222/blob/main/assets/banner.png" alt="JooYeon Kim Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm JooYeon Kim 👋</h1>
+
 
 👨‍💻 Backend Developer  
 📍 Based in Korea | ✉️ [zpffjtm@gmail.com](mailto:zpffjtm@gmail.com) <br>
