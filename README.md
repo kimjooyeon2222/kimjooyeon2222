@@ -76,5 +76,5 @@
 
 ## 🏅 Certifications
 
-- Oracle Certified Associate Java Programmer (OCAJP)  
-- SQL Developer (SQLD)
+- Oracle Certified Associate Java Programmer (**OCAJP**)  
+- SQL Developer (**SQLD**)
