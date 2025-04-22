@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1dc7ef5a-c6f7-42f6-9365-d3bb8b2a09bb" width="250" alt="Avatar" />
+  <img 
+    src="https://github.com/user-attachments/assets/1dc7ef5a-c6f7-42f6-9365-d3bb8b2a09bb" 
+    alt="Avatar"
+    style="display: block; margin: auto; max-width: 90%; height: 180px; object-fit: contain;" />
 </p>
 
 <h1 align="center">Hi, I'm JooYeon Kim 👋</h1>
+
 
 
 
