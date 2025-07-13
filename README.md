@@ -12,7 +12,7 @@
 
 
 👨‍💻 Backend Developer  
-📍 Based in Korea | ✉️ [zpffjtm@gmail.com](mailto:zpffjtm@gmail.com) <br>
+📍 Based in Korea | ✉️ [mikekim2765@gmail.com](mailto:mikekim2765@gmail.com) <br>
 💻 Skilled in **Java, Python, C++, SQL**, and currently advancing my expertise in **C#**  
 🧠 Exploring **YOLOv8-based deep learning** for intelligent system development  
 🎼 Currently developing **TranScore**, an AI-powered sheet music converter
