@@ -54,7 +54,7 @@
 
 ## 🚀 Projects
 
-### 🎼 TranScore (🔧 In Progress)  
+### 🎼 TranScore
 > A web-based tool that converts sheet music into a different key using AI-powered note detection and score transformation.
 
 - 🧠 Working on note detection using **YOLOv8** (via **Roboflow**) in **Google Colab**  
