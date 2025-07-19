@@ -92,6 +92,6 @@
 ---
 
 ## 🏅 Certifications
-
+- Engineer Information Processing Certificate (**HRD Korea**)
 - Oracle Certified Associate Java Programmer (**OCAJP**)  
 - SQL Developer (**SQLD**)
