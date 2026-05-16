@@ -65,14 +65,6 @@
 
 ---
 
-### 🔋 MES-Battery-Monitoring  
-> Real-time battery inspection and monitoring system built using **C#** and **Oracle SQL**.
-- ⚡ Developed core monitoring features to detect and display battery cell status  
-- 🖥️ Designed user interface using **WinForms**, integrated with MES data flow  
-- 💡 Focused on **SQL query optimization** and structured DB interaction
-
----
-
 ### 🌱 Green Action App  
 > An Android app promoting eco-friendly behavior through gamified features and real-time data.
 - 🔐 Built login system with **Firebase** (Email, Google login) and real-time leaderboard  
