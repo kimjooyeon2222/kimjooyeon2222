@@ -48,7 +48,7 @@
 ## 🚀 Projects
 
 ### 📦 EMS (Export Management System)
-> An integrated export logistics management system built with React, Node.js, and MSSQL, deployed on an on-premises Windows server.
+> An integrated export logistics management system built with React, Flask, and MSSQL, deployed on an on-premises Windows server.
 - 🗄️ Designed MSSQL database and built REST API for invoice, inventory, and shipping data management  
 - 🖥️ Developed React-based frontend with freight cost visualization by route and period  
 - 🔧 Deployed on Windows Server via IIS with URL Rewrite proxy configuration  
