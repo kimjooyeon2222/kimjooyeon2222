@@ -4,7 +4,7 @@
     alt="Avatar"
     style="display: block; margin: auto; height: 140px; object-fit: contain;" />
 </p>
-<h1 align="center">Hi, I'm JooYeon Kim 👋</h1>
+<h1 align="center">Hi, I'm Jooyeon Kim 👋</h1>
 
 👨‍💻 IT Engineer & Developer  
 📍 Based in Korea | ✉️ [mikekim2765@gmail.com](mailto:mikekim2765@gmail.com) <br>
